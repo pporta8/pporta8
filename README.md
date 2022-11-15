@@ -1,0 +1,3 @@
+-  Hi, I’m @pporta8
+-  I’m interested in trying new things with programming
+-  I’m currently learning Dots and Netcode
